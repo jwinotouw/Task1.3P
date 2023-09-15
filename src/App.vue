@@ -14,7 +14,7 @@
           <li class="title">Portfolio</li>
           <li><RouterLink to="/">Home</RouterLink></li>
           <li><RouterLink to="/AboutView">About</RouterLink></li>
-          <li><RouterLink to="/ContactView">Contacts</RouterLink></li>
+          <li><RouterLink to="/ContactView">Contact</RouterLink></li>
           <!-- <li><RouterLink to="/contact">Contact</RouterLink></li> -->
         </ul> 
       </nav>
