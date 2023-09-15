@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <h1>Contact Me</h1>
-    <p>This is a brief description of myself and my portfolio. You can write anything you want here to introduce yourself and your work.</p>
+    <p>Hello! If you are in need of my service such as animation work, 3D modelling, Advertisement render, or texturing,
+      please feel free to contact me and i will get back to you as soon as possible! Thanks for visiting!</p>
     <p>You can also follow me on Instagram: <a href="https://www.instagram.com/setyaki_3d/" target="_blank">@setyaki_3d</a></p>
     <form @submit.prevent="submitForm" class="form">
       <div class="input-group">
